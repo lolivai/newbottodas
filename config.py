@@ -1,6 +1,10 @@
 import os
 # Bot
+<<<<<<< HEAD
+BOT_TOKEN = '5118830566:AAEvpUEOOSpbJVtzwJoBqJ24XjsCE1qrJSI'
+=======
 BOT_TOKEN = '5372863741:AAHh771TqKKNkaBXFmpw_NwKSI4OOVL6Lgg'
+>>>>>>> bee84afd44e57085d1a8aa2872abc358af9c358d
 TG_API_ID = '14000256'
 TG_API_HASH = '61158815c58e158cfa9520c85676a450'
 TG_ADMIN = 'andres950108'
@@ -18,3 +22,4 @@ if DB_LOCAL:
     DB_HOST_USERNAME = 'root'
     DB_HOST_PASSWORD = ''
     DB_NAME = 'clutilprodb'
+
