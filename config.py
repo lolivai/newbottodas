@@ -1,4 +1,5 @@
 import os
+import ProxyCloud
 # Bot
 BOT_TOKEN = '5118830566:AAEvpUEOOSpbJVtzwJoBqJ24XjsCE1qrJSI'
 TG_API_ID = '14000256'
